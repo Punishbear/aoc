@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\adventofcode\adventofcode\day2\bin\Debug\day2.exe.config
+C:\Users\user\Desktop\adventofcode\adventofcode\day2\bin\Debug\day2.exe
+C:\Users\user\Desktop\adventofcode\adventofcode\day2\bin\Debug\day2.pdb
+C:\Users\user\Desktop\adventofcode\adventofcode\day2\obj\Debug\day2.exe
+C:\Users\user\Desktop\adventofcode\adventofcode\day2\obj\Debug\day2.pdb

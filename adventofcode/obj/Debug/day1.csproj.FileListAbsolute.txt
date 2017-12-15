@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\bin\Debug\adventofcode.exe.config
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\bin\Debug\adventofcode.exe
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\bin\Debug\adventofcode.pdb
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\obj\Debug\day1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\obj\Debug\adventofcode.exe
+C:\Users\user\Desktop\adventofcode\adventofcode\adventofcode\obj\Debug\adventofcode.pdb
